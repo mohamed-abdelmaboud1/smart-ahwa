@@ -6,20 +6,23 @@
 ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-green?style=for-the-badge)
 
 A comprehensive coffee shop management system built with Flutter, implementing clean architecture principles and SOLID design patterns. The app features a complete order management system with real-time analytics and interactive reporting dashboard.
+## 📱 Demo
+
+
+https://github.com/user-attachments/assets/f8c7c3d1-feb1-4c3e-9c21-dacd4708f932
+
 
 ## 📋 Table of Contents
 
 - [🌟 Features](#-features)
 - [🏗️ Architecture](#️-architecture)
 - [🎯 Smart Ahwa Module](#-smart-ahwa-module)
-- [🚀 Getting Started](#-getting-started)
 - [📱 Screenshots](#-screenshots)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📦 Dependencies](#-dependencies)
 - [🏛️ Project Structure](#️-project-structure)
 - [🧪 Testing](#-testing)
 - [📚 Documentation](#-documentation)
-- [🤝 Contributing](#-contributing)
 
 ## 🌟 Features
 
@@ -116,12 +119,33 @@ The Smart Ahwa module is the core feature implementing a complete coffee shop ma
 - **💳 Payment Tracking**: Order totals and revenue calculation
 
 ## 📱 Screenshots
-
 | Dashboard | Add Order | Reports & Analytics |
 |-----------|-----------|-------------------|
 | 📊 Live order tracking | ➕ Create new orders | 📈 Performance metrics |
 | 🔄 Status management | ☕ Drink selection | 🏆 Top selling items |
 | 👥 Customer overview | 💰 Price calculation | 📋 Order management |
+
+<!-- Table 1 -->
+<table>
+  <tr>
+    <td><img width="600px" src="https://github.com/user-attachments/assets/15889826-9c7c-4094-a810-a8399951a4a4"></td>
+    <td><img width="600px" src="https://github.com/user-attachments/assets/b2fa8397-7f8a-4516-a443-e86c26f49920"></td>
+    <td><img width="600px" src="https://github.com/user-attachments/assets/2c07c736-6059-4f13-a958-8d0b782da03e"></td>
+    <td><img width="600px" src="https://github.com/user-attachments/assets/3832f396-a9f8-4dfb-8de8-f90c2a5bd965"></td>
+    <td><img width="600px" src="https://github.com/user-attachments/assets/2055c787-a4fd-49a4-914c-eced7ddf9807"></td>
+  </tr>
+</table>
+
+<!-- Table 2 -->
+<table>
+  <tr>
+    <td><img width="600px" src="https://github.com/user-attachments/assets/98de491c-265e-4f14-b5de-243e7afc33af"></td>
+    <td><img width="600px" src="https://github.com/user-attachments/assets/cd7ea492-84ca-4808-8449-a14f0c055616"></td>
+    <td><img width="600px" src="https://github.com/user-attachments/assets/dd428bac-3b72-4aba-9a5c-471558b71dae"></td>
+    <td><img width="600px" src="https://github.com/user-attachments/assets/2e7cdf6a-3e42-4e3b-8ac0-69bdebb63579"></td>
+  </tr>
+</table>
+
 
 ## 🛠️ Tech Stack
 
